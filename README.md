@@ -1,4 +1,4 @@
-# custom Video Surveillance System
+# Video surveillance system
 
 <details open>
 	<summary>Screenshots</summary><br />
